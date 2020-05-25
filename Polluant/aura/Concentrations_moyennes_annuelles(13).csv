@@ -1,0 +1,7 @@
+﻿nom_dept,nom_com,id_com,date_debut,date_fin,nom_station,code_station,typologie,influence,nom_poll,id_poll_ue,unite,valeur,validite,validation,metrique,yl93,xl93,OBJECTID
+Puy-de-Dôme,Clermont-Ferrand,63113,1483228800000,1514764800000,Clermont-Esplanade Gare,FR07034,urbaine,trafic,Benzène,20,µg/m3,0.95,t,t,annuelle,6519569.5,707479.4375,1
+Isère,Grenoble,38185,1483228800000,1514764800000,Grenoble Les Frenes,FR15043,urbaine,fond,Benzène,20,µg/m3,1.57,f,t,annuelle,6455123,914897.625,2
+Rhône,Feyzin,69276,1483228800000,1514764800000,FEYZIN STADE,FR20029,périurbaine,industrielle,Benzène,20,µg/m3,2.33,t,t,annuelle,6508829.5,843719.0625,3
+Rhône,Pierre-Bénite,69152,1483228800000,1514764800000,PIERRE BENITE,FR20034,périurbaine,industrielle,Benzène,20,µg/m3,0.59,t,t,annuelle,6512756,842365.8125,4
+Rhône,Vernaison,69260,1483228800000,1514764800000,VERNAISON,FR20064,périurbaine,industrielle,Benzène,20,µg/m3,0.64,t,t,annuelle,6507302.5,841496.375,5
+Isère,Salaise-sur-Sanne,38468,1483228800000,1514764800000,A7 Nord-Isère,FR27008,périurbaine,trafic,Benzène,20,µg/m3,0.55,f,t,annuelle,6474259,841310,6

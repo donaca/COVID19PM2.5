@@ -1,0 +1,75 @@
+﻿nom_dept,nom_com,id_com,date_debut,date_fin,nom_station,code_station,typologie,influence,nom_poll,id_poll_ue,unite,valeur,validite,validation,metrique,yl93,xl93,OBJECTID
+Puy-de-Dôme,Clermont-Ferrand,63113,1483228800000,1514764800000,Jardin Lecoq,FR07009,urbaine,fond,Particules PM10,5,µg/m3,15.3,t,t,annuelle,6519176.5,706799.9375,1
+Allier,Paray-le-Frésil,03203,1483228800000,1514764800000,Paray le Fresil,FR07022,rurale régionale,fond,Particules PM10,5,µg/m3,11,t,t,annuelle,6617129.5,745935.5625,2
+Puy-de-Dôme,Les Ancizes-Comps,63004,1483228800000,1514764800000,Les Ancizes,FR07028,périurbaine,industrielle,Particules PM10,5,µg/m3,9.9,t,t,annuelle,6536640.5,686811.3125,3
+Cantal,Rageade,15158,1483228800000,1514764800000,Rageade,FR07031,rurale régionale,fond,Particules PM10,5,µg/m3,,,,annuelle,6445088,721814.9375,4
+Puy-de-Dôme,Clermont-Ferrand,63113,1483228800000,1514764800000,Clermont-Esplanade Gare,FR07034,urbaine,trafic,Particules PM10,5,µg/m3,18.2,t,t,annuelle,6519569.5,707479.4375,5
+Puy-de-Dôme,Chamalières,63075,1483228800000,1514764800000,Chamalières Europe,FR07039,urbaine,trafic,Particules PM10,5,µg/m3,15.1,t,t,annuelle,6519464.5,704893.5625,6
+Puy-de-Dôme,Clermont-Ferrand,63113,1483228800000,1514764800000,Site autoroutier A71,FR07042,urbaine,trafic,Particules PM10,5,µg/m3,16.9,t,t,annuelle,6520497,711110.625,7
+Puy-de-Dôme,Issoire,63178,1483228800000,1514764800000,Issoire Ecole Centre,FR07045,urbaine,fond,Particules PM10,5,µg/m3,15,t,f,annuelle,6493968.5,719324.8125,8
+Puy-de-Dôme,Clermont-Ferrand,63113,1483228800000,1514764800000,Beaulieu,FR07051,périurbaine,industrielle,Particules PM10,5,µg/m3,14.8,t,t,annuelle,6518833,712046.25,9
+Cantal,Aurillac,15014,1483228800000,1514764800000,Aurillac-Lagarde,FR07052,urbaine,fond,Particules PM10,5,µg/m3,10.8,t,t,annuelle,6424698.5,655895.125,10
+Haute-Loire,Le Puy-en-Velay,43157,1483228800000,1514764800000,Le Puy-Causans,FR07054,urbaine,fond,Particules PM10,5,µg/m3,15.2,t,t,annuelle,6438143,769845,11
+Haute-Loire,Fay-sur-Lignon,43092,1483228800000,1514764800000,Pays du Mezenc,FR07056,rurale régionale,fond,Particules PM10,5,µg/m3,7.1,t,t,annuelle,6432366.5,796632.625,12
+Allier,Moulins,03190,1483228800000,1514764800000,Moulins Centre,FR07057,urbaine,fond,Particules PM10,5,µg/m3,,,,annuelle,6606939,726093.75,13
+Isère,Fontaine,38169,1483228800000,1514764800000,Fontaine Les Balmes,FR15017,urbaine,fond,Particules PM10,5,µg/m3,19.1,t,t,annuelle,6458159,910970.625,14
+Isère,Voiron,38563,1483228800000,1514764800000,Voiron Urbain,FR15018,urbaine,fond,Particules PM10,5,µg/m3,18.1,t,t,annuelle,6476744,902696.5,15
+Isère,Saint-Martin-d'Hères,38421,1483228800000,1514764800000,St Martin dHeres,FR15038,urbaine,fond,Particules PM10,5,µg/m3,20.2,t,t,annuelle,6457490.5,916190.875,16
+Isère,Échirolles,38151,1483228800000,1514764800000,Le Rondeau,FR15039,urbaine,trafic,Particules PM10,5,µg/m3,28.9,t,t,annuelle,6454644,912411.125,17
+Isère,Grenoble,38185,1483228800000,1514764800000,Grenoble Les Frenes,FR15043,urbaine,fond,Particules PM10,5,µg/m3,19.7,t,f,annuelle,6455123,914897.625,18
+Isère,Vif,38545,1483228800000,1514764800000,Grenoble PeriurbSud,FR15045,périurbaine,fond,Particules PM10,5,µg/m3,16.6,t,t,annuelle,6443409.5,910664.3125,19
+Isère,Grenoble,38185,1483228800000,1514764800000,Grenoble Boulevards,FR15046,urbaine,trafic,Particules PM10,5,µg/m3,29.2,f,t,annuelle,6457168,913649.8125,20
+Isère,Crolles,38140,1483228800000,1514764800000,Gresivaudan Periurb,FR15048,périurbaine,fond,Particules PM10,5,µg/m3,19.1,t,t,annuelle,6468606.5,925931.5,21
+Isère,Grenoble,38185,1483228800000,1514764800000,Grenoble Caserne de Bonne,FR15049,urbaine,fond,Particules PM10,5,µg/m3,19.6,t,t,annuelle,6457474,913997,22
+Rhône,La Mulatière,69142,1483228800000,1514764800000,A7 SUD LYONNAIS,FR20013,périurbaine,trafic,Particules PM10,5,µg/m3,30,t,t,annuelle,6515040,841410.75,23
+Rhône,Lyon,69123,1483228800000,1514764800000,GERLAND,FR20017,urbaine,fond,Particules PM10,5,µg/m3,24.8,t,t,annuelle,6516726.5,842281.625,24
+Rhône,Villeurbanne,69266,1483228800000,1514764800000,GRANDCLEMENT,FR20019,urbaine,trafic,Particules PM10,5,µg/m3,22.9,t,t,annuelle,6519391,846606.6875,25
+Rhône,Feyzin,69276,1483228800000,1514764800000,FEYZIN STADE,FR20029,périurbaine,industrielle,Particules PM10,5,µg/m3,22.4,t,t,annuelle,6508829.5,843719.0625,26
+Rhône,Saint-Fons,69199,1483228800000,1514764800000,ST FONS CENTRE,FR20031,périurbaine,industrielle,Particules PM10,5,µg/m3,21.6,t,t,annuelle,6513737.5,845044.0625,27
+Rhône,Ternay,69297,1483228800000,1514764800000,TERNAY,FR20037,périurbaine,fond,Particules PM10,5,µg/m3,21.5,t,t,annuelle,6501867.5,840474.375,28
+Rhône,Genas,69277,1483228800000,1514764800000,GENAS,FR20045,périurbaine,fond,Particules PM10,5,µg/m3,20.6,t,t,annuelle,6516610,853992.3125,29
+Rhône,Vaulx-en-Velin,69256,1483228800000,1514764800000,VAULX EN VELIN,FR20046,urbaine,fond,Particules PM10,5,µg/m3,20.6,t,t,annuelle,6521743,849541.875,30
+Ain,Miribel,01249,1483228800000,1514764800000,COTIERE AIN,FR20047,périurbaine,fond,Particules PM10,5,µg/m3,19.5,t,t,annuelle,6526719.5,851692.875,31
+Rhône,Pusignan,69285,1483228800000,1514764800000,SAINT EXUPERY,FR20048,périurbaine,fond,Particules PM10,5,µg/m3,19.8,t,t,annuelle,6519362.5,860928.375,32
+Rhône,Lyon,69123,1483228800000,1514764800000,LYON Centre,FR20062,urbaine,fond,Particules PM10,5,µg/m3,22,t,t,annuelle,6519290,844083.4375,33
+Rhône,Lyon,69123,1483228800000,1514764800000,Lyon - Tunnel Croix-Rousse - Sortie Rhône,FR20065,urbaine,fond,Particules PM10,5,µg/m3,24.3,t,f,annuelle,6520868,842741,34
+Rhône,Villeurbanne,69266,1483228800000,1514764800000,Lyon Périphérique,FR20069,urbaine,trafic,Particules PM10,5,µg/m3,25.8,t,t,annuelle,6521241,847523.125,35
+Rhône,Lyon,69123,1483228800000,1514764800000,LYON TRAFIC JAURES,FR20070,urbaine,trafic,Particules PM10,5,µg/m3,23.8,t,f,annuelle,6518352,843378.9375,36
+Isère,Roussillon,38344,1483228800000,1514764800000,ROUSSILLON,FR27002,urbaine,fond,Particules PM10,5,µg/m3,20.2,t,t,annuelle,6475884.5,841298.3125,37
+Isère,Bourgoin-Jallieu,38053,1483228800000,1514764800000,Bourgoin-Jallieu,FR27007,urbaine,fond,Particules PM10,5,µg/m3,19,t,f,annuelle,6503511.5,876976.3125,38
+Isère,Salaise-sur-Sanne,38468,1483228800000,1514764800000,A7 Nord-Isère,FR27008,périurbaine,trafic,Particules PM10,5,µg/m3,19.2,t,f,annuelle,6474259,841310,39
+Loire,Roanne,42187,1483228800000,1514764800000,ROANNE,FR29423,urbaine,fond,Particules PM10,5,µg/m3,15.3,f,f,annuelle,6549605,783106.125,40
+Loire,Saint-Étienne,42218,1483228800000,1514764800000,SAINT ETIENNE SUD,FR29424,urbaine,fond,Particules PM10,5,µg/m3,15.8,t,f,annuelle,6481038,809128.1875,41
+Loire,Saint-Chamond,42207,1483228800000,1514764800000,SAINT-CHAMOND,FR29426,urbaine,fond,Particules PM10,5,µg/m3,17.8,t,f,annuelle,6487343.5,818361.1875,42
+Loire,Saint-Étienne,42218,1483228800000,1514764800000,ST ETIENNE ROND PT,FR29428,urbaine,trafic,Particules PM10,5,µg/m3,16.6,t,f,annuelle,6481283,810485.5625,43
+Loire,Rive-de-Gier,42186,1483228800000,1514764800000,RIVE DE GIER,FR29429,périurbaine,trafic,Particules PM10,5,µg/m3,20.4,t,t,annuelle,6493963.5,826738.125,44
+Loire,La Talaudière,42305,1483228800000,1514764800000,LA TALAUDIERE,FR29439,périurbaine,fond,Particules PM10,5,µg/m3,17.2,t,f,annuelle,6487935.5,811682,45
+Loire,Saint-Étienne,42218,1483228800000,1514764800000,ST ETIENNE BD URBAIN ,FR29441,urbaine,trafic,Particules PM10,5,µg/m3,19.7,t,t,annuelle,6484125.5,808553.125,46
+Savoie,Chambéry,73065,1483228800000,1514764800000,PASTEUR,FR33101,urbaine,fond,Particules PM10,5,µg/m3,20.2,t,t,annuelle,6500356,928381,47
+Savoie,Chambéry,73065,1483228800000,1514764800000,CHAMBERY LE HAUT,FR33102,urbaine,fond,Particules PM10,5,µg/m3,16.4,t,f,annuelle,6503888,927483.625,48
+Savoie,Chambéry,73065,1483228800000,1514764800000,Chambéry Trafic,FR33105,urbaine,trafic,Particules PM10,5,µg/m3,19.8,t,t,annuelle,6500907,928715.875,49
+Savoie,Saint-Jean-de-Maurienne,73248,1483228800000,1514764800000,SAINT JEAN,FR33111,urbaine,fond,Particules PM10,5,µg/m3,14.8,t,t,annuelle,6469500.5,962582.875,50
+Savoie,Saint-Julien-Mont-Denis,73250,1483228800000,1514764800000,St Julien trafic,FR33114,urbaine,trafic,Particules PM10,5,µg/m3,25.1,t,t,annuelle,6467202,966393.5625,51
+Haute-Savoie,Chamonix-Mont-Blanc,74056,1483228800000,1514764800000,CHAMONIX,FR33120,urbaine,fond,Particules PM10,5,µg/m3,17,t,t,annuelle,6543216,999812.4375,52
+Savoie,Albertville,73011,1483228800000,1514764800000,Albertville,FR33121,urbaine,fond,Particules PM10,5,µg/m3,17.5,t,t,annuelle,6514045.5,963808.875,53
+Savoie,La Léchère,73187,1483228800000,1514764800000,La Léchère,FR33122,rurale proche,industrielle,Particules PM10,5,µg/m3,21.5,t,f,annuelle,6498881,970818.1875,54
+Haute-Savoie,Annecy,74010,1483228800000,1514764800000,LOVERCHY,FR33201,urbaine,fond,Particules PM10,5,µg/m3,21.6,t,t,annuelle,6537627,941742.125,55
+Haute-Savoie,Annecy,74010,1483228800000,1514764800000,NOVEL,FR33202,urbaine,fond,Particules PM10,5,µg/m3,15.1,t,t,annuelle,6540090,942978.6875,56
+Haute-Savoie,Annecy,74010,1483228800000,1514764800000,ANNECY Rocade,FR33203,urbaine,trafic,Particules PM10,5,µg/m3,24.5,t,t,annuelle,6539208,941653.6875,57
+Haute-Savoie,Annemasse,74012,1483228800000,1514764800000,ANNEMASSE,FR33211,urbaine,fond,Particules PM10,5,µg/m3,17.6,t,t,annuelle,6571348.5,949833.5625,58
+Haute-Savoie,Gaillard,74133,1483228800000,1514764800000,GAILLARD,FR33212,urbaine,fond,Particules PM10,5,µg/m3,,,,annuelle,6571030,947863.125,59
+Haute-Savoie,Annemasse,74012,1483228800000,1514764800000,ANNEMASSE TRAFIC,FR33213,urbaine,trafic,Particules PM10,5,µg/m3,19.5,t,f,annuelle,6570775.5,949469.5625,60
+Haute-Savoie,Passy,74208,1483228800000,1514764800000,PASSY,FR33220,périurbaine,fond,Particules PM10,5,µg/m3,23.3,t,f,annuelle,6542749,987703,61
+Haute-Savoie,Chamonix-Mont-Blanc,74056,1483228800000,1514764800000,BOSSONS,FR33232,urbaine,trafic,Particules PM10,5,µg/m3,15.8,t,t,annuelle,6541420,998027.5,62
+Haute-Savoie,Sallanches,74256,1483228800000,1514764800000,SALLANCHES,FR33235,urbaine,fond,Particules PM10,5,µg/m3,44,f,t,annuelle,6543771.5,981581,63
+Haute-Savoie,Saint-Germain-sur-Rhône,74235,1483228800000,1514764800000,St Germain/Rhône,FR33302,rurale proche,fond,Particules PM10,5,µg/m3,14.1,t,t,annuelle,6556388.5,917979.6875,64
+Ain,Bourg-en-Bresse,01053,1483228800000,1514764800000,Bourg-en-Bresse,FR33305,urbaine,fond,Particules PM10,5,µg/m3,17,t,f,annuelle,6570409.5,871636.1875,65
+Haute-Savoie,Marnaz,74169,1483228800000,1514764800000,MARNAZ,FR33367,périurbaine,fond,Particules PM10,5,µg/m3,13.7,f,t,annuelle,6556994.5,973081.5,66
+Haute-Savoie,Magland,74159,1483228800000,1514764800000,Magland,FR33374,périurbaine,fond,Particules PM10,5,µg/m3,34,f,f,annuelle,6553152,979987,67
+Drôme,Portes-lès-Valence,26252,1483228800000,1514764800000,Valence Périurb. Sud,FR36001,périurbaine,fond,Particules PM10,5,µg/m3,22.2,t,f,annuelle,6420768,848178.875,68
+Drôme,Valence,26362,1483228800000,1514764800000,Valence Urb. Centre,FR36002,urbaine,fond,Particules PM10,5,µg/m3,20.2,t,t,annuelle,6427789.5,849384.3125,69
+Drôme,Bourg-lès-Valence,26058,1483228800000,1514764800000,Valence Trafic,FR36003,urbaine,trafic,Particules PM10,5,µg/m3,25,f,t,annuelle,6429529.5,849043,70
+Drôme,Romans-sur-Isère,26281,1483228800000,1514764800000,Romans-sur-Isère,FR36019,urbaine,fond,Particules PM10,5,µg/m3,18.8,t,t,annuelle,6440222.5,860949.375,71
+Drôme,Saint-Nazaire-le-Désert,26321,1483228800000,1514764800000,Drôme Rurale Sud-SND,FR36021,rurale nationale,fond,Particules PM10,5,µg/m3,8.5,t,t,annuelle,6388207,880936.6875,72
+Ardèche,Saint-Cyr,07227,1483228800000,1514764800000,ANNONAY,FR36025,urbaine,fond,Particules PM10,5,µg/m3,20,f,t,annuelle,6461865,835394.4375,73
+Drôme,Bourg-lès-Valence,26058,1483228800000,1514764800000,A7 Valence Ouest,FR36029,urbaine,trafic,Particules PM10,5,µg/m3,19.5,t,t,annuelle,6428870,849052,74

@@ -1,0 +1,77 @@
+﻿nom_dept,nom_com,id_com,date_debut,date_fin,nom_station,code_station,typologie,influence,nom_poll,id_poll_ue,unite,valeur,validite,validation,metrique,yl93,xl93,OBJECTID
+Puy-de-Dôme,Royat,63308,1514764800000,1546300800000,Royat,FR07001,périurbaine,fond,Dioxyde d'azote,8,µg/m3,,,,annuelle,6518341,703668,1
+Puy-de-Dôme,Clermont-Ferrand,63113,1514764800000,1546300800000,Montferrand,FR07004,urbaine,fond,Dioxyde d'azote,8,µg/m3,18.5,t,t,annuelle,6521968,708842.3125,2
+Puy-de-Dôme,Clermont-Ferrand,63113,1514764800000,1546300800000,Jardin Lecoq,FR07009,urbaine,fond,Dioxyde d'azote,8,µg/m3,19.2,t,t,annuelle,6519176.5,706799.9375,3
+Allier,Paray-le-Frésil,03203,1514764800000,1546300800000,Paray le Fresil,FR07022,rurale régionale,fond,Dioxyde d'azote,8,µg/m3,3.2,t,t,annuelle,6617129.5,745935.5625,4
+Puy-de-Dôme,Riom,63300,1514764800000,1546300800000,Riom,FR07032,urbaine,fond,Dioxyde d'azote,8,µg/m3,14,t,t,annuelle,6532730.5,708921.625,5
+Puy-de-Dôme,Clermont-Ferrand,63113,1514764800000,1546300800000,Clermont-Esplanade Gare,FR07034,urbaine,trafic,Dioxyde d'azote,8,µg/m3,35.2,t,t,annuelle,6519569.5,707479.4375,6
+Puy-de-Dôme,Clermont-Ferrand,63113,1514764800000,1546300800000,Site autoroutier A71,FR07042,urbaine,trafic,Dioxyde d'azote,8,µg/m3,34.6,t,t,annuelle,6520497,711110.625,7
+Allier,Villeneuve-sur-Allier,03316,1514764800000,1546300800000,Villeneuve sur Allier,FR07048,périurbaine,trafic,Dioxyde d'azote,8,µg/m3,37,t,t,annuelle,6617695,719063.8125,8
+Puy-de-Dôme,Clermont-Ferrand,63113,1514764800000,1546300800000,Beaulieu,FR07051,périurbaine,industrielle,Dioxyde d'azote,8,µg/m3,12.5,t,t,annuelle,6518833,712046.25,9
+Cantal,Aurillac,15014,1514764800000,1546300800000,Aurillac-Lagarde,FR07052,urbaine,fond,Dioxyde d'azote,8,µg/m3,8.6,t,t,annuelle,6424698.5,655895.125,10
+Puy-de-Dôme,Clermont-Ferrand,63113,1514764800000,1546300800000,Edouard Michelin,FR07053,urbaine,trafic,Dioxyde d'azote,8,µg/m3,35,t,t,annuelle,6520097,708670.875,11
+Haute-Loire,Le Puy-en-Velay,43157,1514764800000,1546300800000,Le Puy-Causans,FR07054,urbaine,fond,Dioxyde d'azote,8,µg/m3,13.2,t,t,annuelle,6438143,769845,12
+Allier,Moulins,03190,1514764800000,1546300800000,Moulins Centre,FR07057,urbaine,fond,Dioxyde d'azote,8,µg/m3,11.3,t,t,annuelle,6606939,726093.75,13
+Allier,Montluçon,03185,1514764800000,1546300800000,Montluçon,FR07058,urbaine,fond,Dioxyde d'azote,8,µg/m3,14.6,t,t,annuelle,6582391.5,668768.9375,14
+Allier,Vichy,03310,1514764800000,1546300800000,Vichy,FR07059,urbaine,fond,Dioxyde d'azote,8,µg/m3,13.6,t,t,annuelle,6559047,732867,15
+Isère,Champ-sur-Drac,38071,1514764800000,1546300800000,Champ sur Drac,FR15013,périurbaine,fond,Dioxyde d'azote,8,µg/m3,14.7,t,t,annuelle,6445962.5,914668.125,16
+Isère,Fontaine,38169,1514764800000,1546300800000,Fontaine Les Balmes,FR15017,urbaine,fond,Dioxyde d'azote,8,µg/m3,30.7,f,t,annuelle,6458159,910970.625,17
+Isère,Voiron,38563,1514764800000,1546300800000,Voiron Urbain,FR15018,urbaine,fond,Dioxyde d'azote,8,µg/m3,16.5,t,t,annuelle,6476744,902696.5,18
+Isère,Saint-Martin-d'Hères,38421,1514764800000,1546300800000,St Martin dHeres,FR15038,urbaine,fond,Dioxyde d'azote,8,µg/m3,23.6,t,t,annuelle,6457490.5,916190.875,19
+Isère,Échirolles,38151,1514764800000,1546300800000,Le Rondeau,FR15039,urbaine,trafic,Dioxyde d'azote,8,µg/m3,40.3,t,t,annuelle,6454644,912411.125,20
+Isère,Grenoble,38185,1514764800000,1546300800000,Grenoble Les Frenes,FR15043,urbaine,fond,Dioxyde d'azote,8,µg/m3,19.8,t,t,annuelle,6455123,914897.625,21
+Isère,Vif,38545,1514764800000,1546300800000,Grenoble PeriurbSud,FR15045,périurbaine,fond,Dioxyde d'azote,8,µg/m3,10.8,t,t,annuelle,6443409.5,910664.3125,22
+Isère,Grenoble,38185,1514764800000,1546300800000,Grenoble Boulevards,FR15046,urbaine,trafic,Dioxyde d'azote,8,µg/m3,43.5,t,t,annuelle,6457168,913649.8125,23
+Isère,Crolles,38140,1514764800000,1546300800000,Gresivaudan Periurb,FR15048,périurbaine,fond,Dioxyde d'azote,8,µg/m3,14.8,t,t,annuelle,6468606.5,925931.5,24
+Isère,Grenoble,38185,1514764800000,1546300800000,Grenoble Caserne de Bonne,FR15049,urbaine,fond,Dioxyde d'azote,8,µg/m3,23.3,t,t,annuelle,6457474,913997,25
+Rhône,La Mulatière,69142,1514764800000,1546300800000,A7 SUD LYONNAIS,FR20013,périurbaine,trafic,Dioxyde d'azote,8,µg/m3,60.6,t,t,annuelle,6515040,841410.75,26
+Rhône,Lyon,69123,1514764800000,1546300800000,GERLAND,FR20017,urbaine,fond,Dioxyde d'azote,8,µg/m3,29.6,t,t,annuelle,6516726.5,842281.625,27
+Rhône,Villeurbanne,69266,1514764800000,1546300800000,GRANDCLEMENT,FR20019,urbaine,trafic,Dioxyde d'azote,8,µg/m3,34.4,t,t,annuelle,6519391,846606.6875,28
+Rhône,Feyzin,69276,1514764800000,1546300800000,FEYZIN STADE,FR20029,périurbaine,industrielle,Dioxyde d'azote,8,µg/m3,30.6,f,t,annuelle,6508829.5,843719.0625,29
+Rhône,Saint-Fons,69199,1514764800000,1546300800000,ST FONS CENTRE,FR20031,périurbaine,industrielle,Dioxyde d'azote,8,µg/m3,23.2,t,t,annuelle,6513737.5,845044.0625,30
+Rhône,Ternay,69297,1514764800000,1546300800000,TERNAY,FR20037,périurbaine,fond,Dioxyde d'azote,8,µg/m3,18.9,t,t,annuelle,6501867.5,840474.375,31
+Rhône,Genas,69277,1514764800000,1546300800000,GENAS,FR20045,périurbaine,fond,Dioxyde d'azote,8,µg/m3,23.8,t,t,annuelle,6516610,853992.3125,32
+Rhône,Vaulx-en-Velin,69256,1514764800000,1546300800000,VAULX EN VELIN,FR20046,urbaine,fond,Dioxyde d'azote,8,µg/m3,18.7,f,t,annuelle,6521743,849541.875,33
+Ain,Miribel,01249,1514764800000,1546300800000,COTIERE AIN,FR20047,périurbaine,fond,Dioxyde d'azote,8,µg/m3,9.6,f,t,annuelle,6526719.5,851692.875,34
+Rhône,Pusignan,69285,1514764800000,1546300800000,SAINT EXUPERY,FR20048,périurbaine,fond,Dioxyde d'azote,8,µg/m3,12.2,t,t,annuelle,6519362.5,860928.375,35
+Rhône,Lyon,69123,1514764800000,1546300800000,LYON Centre,FR20062,urbaine,fond,Dioxyde d'azote,8,µg/m3,24.8,t,t,annuelle,6519290,844083.4375,36
+Rhône,Lyon,69123,1514764800000,1546300800000,Lyon - Tunnel Croix-Rousse - Sortie Rhône,FR20065,urbaine,fond,Dioxyde d'azote,8,µg/m3,57.1,t,t,annuelle,6520868,842741,37
+Rhône,Villeurbanne,69266,1514764800000,1546300800000,Lyon Périphérique,FR20069,urbaine,trafic,Dioxyde d'azote,8,µg/m3,66.3,t,t,annuelle,6521241,847523.125,38
+Rhône,Lyon,69123,1514764800000,1546300800000,LYON TRAFIC JAURES,FR20070,urbaine,trafic,Dioxyde d'azote,8,µg/m3,34.7,t,t,annuelle,6518352,843378.9375,39
+Rhône,Villefranche-sur-Saône,69264,1514764800000,1546300800000,Villefranche Centre ,FR20077,urbaine,fond,Dioxyde d'azote,8,µg/m3,19.9,t,t,annuelle,6544818.5,832786.125,40
+Isère,Roussillon,38344,1514764800000,1546300800000,ROUSSILLON,FR27002,urbaine,fond,Dioxyde d'azote,8,µg/m3,22.5,t,t,annuelle,6475884.5,841298.3125,41
+Isère,Les Roches-de-Condrieu,38340,1514764800000,1546300800000,ROCHES DE CONDRIEU,FR27003,périurbaine,industrielle,Dioxyde d'azote,8,µg/m3,14.6,t,t,annuelle,6485441.5,838060.5,42
+Isère,Sablons,38349,1514764800000,1546300800000,Sablons,FR27005,périurbaine,fond,Dioxyde d'azote,8,µg/m3,13,t,t,annuelle,6470719,838717,43
+Isère,Bourgoin-Jallieu,38053,1514764800000,1546300800000,Bourgoin-Jallieu,FR27007,urbaine,fond,Dioxyde d'azote,8,µg/m3,13.4,f,t,annuelle,6503511.5,876976.3125,44
+Isère,Salaise-sur-Sanne,38468,1514764800000,1546300800000,A7 Nord-Isère,FR27008,périurbaine,trafic,Dioxyde d'azote,8,µg/m3,40.3,t,t,annuelle,6474259,841310,45
+Isère,Lieudieu,38211,1514764800000,1546300800000,Plateau de Bonnevaux,FR27010,rurale régionale,fond,Dioxyde d'azote,8,µg/m3,5.1,t,t,annuelle,6486960,870432.25,46
+Loire,Roanne,42187,1514764800000,1546300800000,ROANNE,FR29423,urbaine,fond,Dioxyde d'azote,8,µg/m3,17.9,t,t,annuelle,6549605,783106.125,47
+Loire,Saint-Étienne,42218,1514764800000,1546300800000,SAINT ETIENNE SUD,FR29424,urbaine,fond,Dioxyde d'azote,8,µg/m3,17.7,t,t,annuelle,6481038,809128.1875,48
+Loire,Saint-Chamond,42207,1514764800000,1546300800000,SAINT-CHAMOND,FR29426,urbaine,fond,Dioxyde d'azote,8,µg/m3,24.8,t,t,annuelle,6487343.5,818361.1875,49
+Loire,Saint-Étienne,42218,1514764800000,1546300800000,ST ETIENNE ROND PT,FR29428,urbaine,trafic,Dioxyde d'azote,8,µg/m3,31.3,f,t,annuelle,6481283,810485.5625,50
+Loire,Rive-de-Gier,42186,1514764800000,1546300800000,RIVE DE GIER,FR29429,périurbaine,trafic,Dioxyde d'azote,8,µg/m3,35.1,t,t,annuelle,6493963.5,826738.125,51
+Loire,La Talaudière,42305,1514764800000,1546300800000,LA TALAUDIERE,FR29439,périurbaine,fond,Dioxyde d'azote,8,µg/m3,14.1,t,t,annuelle,6487935.5,811682,52
+Loire,Saint-Étienne,42218,1514764800000,1546300800000,ST ETIENNE BD URBAIN ,FR29441,urbaine,trafic,Dioxyde d'azote,8,µg/m3,31.7,t,t,annuelle,6484125.5,808553.125,53
+Savoie,Chambéry,73065,1514764800000,1546300800000,PASTEUR,FR33101,urbaine,fond,Dioxyde d'azote,8,µg/m3,20.6,t,t,annuelle,6500356,928381,54
+Savoie,Chambéry,73065,1514764800000,1546300800000,CHAMBERY LE HAUT,FR33102,urbaine,fond,Dioxyde d'azote,8,µg/m3,15.5,t,t,annuelle,6503888,927483.625,55
+Savoie,Chambéry,73065,1514764800000,1546300800000,Chambéry Trafic,FR33105,urbaine,trafic,Dioxyde d'azote,8,µg/m3,30.9,f,t,annuelle,6500907,928715.875,56
+Savoie,Saint-Jean-de-Maurienne,73248,1514764800000,1546300800000,SAINT JEAN,FR33111,urbaine,fond,Dioxyde d'azote,8,µg/m3,12.1,t,t,annuelle,6469500.5,962582.875,57
+Savoie,Saint-Julien-Mont-Denis,73250,1514764800000,1546300800000,St Julien trafic,FR33114,urbaine,trafic,Dioxyde d'azote,8,µg/m3,26.9,t,t,annuelle,6467202,966393.5625,58
+Haute-Savoie,Chamonix-Mont-Blanc,74056,1514764800000,1546300800000,CHAMONIX,FR33120,urbaine,fond,Dioxyde d'azote,8,µg/m3,22.2,t,t,annuelle,6543216,999812.4375,59
+Savoie,Albertville,73011,1514764800000,1546300800000,Albertville,FR33121,urbaine,fond,Dioxyde d'azote,8,µg/m3,19.9,t,t,annuelle,6514045.5,963808.875,60
+Haute-Savoie,Annecy,74010,1514764800000,1546300800000,LOVERCHY,FR33201,urbaine,fond,Dioxyde d'azote,8,µg/m3,22.7,t,t,annuelle,6537627,941742.125,61
+Haute-Savoie,Annecy,74010,1514764800000,1546300800000,NOVEL,FR33202,urbaine,fond,Dioxyde d'azote,8,µg/m3,16.2,t,t,annuelle,6540090,942978.6875,62
+Haute-Savoie,Annecy,74010,1514764800000,1546300800000,ANNECY Rocade,FR33203,urbaine,trafic,Dioxyde d'azote,8,µg/m3,34.7,t,t,annuelle,6539208,941653.6875,63
+Haute-Savoie,Annemasse,74012,1514764800000,1546300800000,ANNEMASSE,FR33211,urbaine,fond,Dioxyde d'azote,8,µg/m3,19.2,t,t,annuelle,6571348.5,949833.5625,64
+Haute-Savoie,Gaillard,74133,1514764800000,1546300800000,GAILLARD,FR33212,urbaine,fond,Dioxyde d'azote,8,µg/m3,17,t,t,annuelle,6571030,947863.125,65
+Haute-Savoie,Annemasse,74012,1514764800000,1546300800000,ANNEMASSE TRAFIC,FR33213,urbaine,trafic,Dioxyde d'azote,8,µg/m3,24.4,t,t,annuelle,6570775.5,949469.5625,66
+Haute-Savoie,Passy,74208,1514764800000,1546300800000,PASSY,FR33220,périurbaine,fond,Dioxyde d'azote,8,µg/m3,14.8,t,t,annuelle,6542749,987703,67
+Haute-Savoie,Chamonix-Mont-Blanc,74056,1514764800000,1546300800000,BOSSONS,FR33232,urbaine,trafic,Dioxyde d'azote,8,µg/m3,43.8,t,t,annuelle,6541420,998027.5,68
+Haute-Savoie,Thonon-les-Bains,74281,1514764800000,1546300800000,THONON les Bains,FR33260,urbaine,fond,Dioxyde d'azote,8,µg/m3,,,,annuelle,6591966,967770.875,69
+Haute-Savoie,Saint-Germain-sur-Rhône,74235,1514764800000,1546300800000,St Germain/Rhône,FR33302,rurale proche,fond,Dioxyde d'azote,8,µg/m3,7.4,t,t,annuelle,6556388.5,917979.6875,70
+Ain,Bourg-en-Bresse,01053,1514764800000,1546300800000,Bourg-en-Bresse,FR33305,urbaine,fond,Dioxyde d'azote,8,µg/m3,15.1,t,t,annuelle,6570409.5,871636.1875,71
+Drôme,Portes-lès-Valence,26252,1514764800000,1546300800000,Valence Périurb. Sud,FR36001,périurbaine,fond,Dioxyde d'azote,8,µg/m3,16.4,t,t,annuelle,6420768,848178.875,72
+Drôme,Valence,26362,1514764800000,1546300800000,Valence Urb. Centre,FR36002,urbaine,fond,Dioxyde d'azote,8,µg/m3,20.6,t,t,annuelle,6427789.5,849384.3125,73
+Drôme,Romans-sur-Isère,26281,1514764800000,1546300800000,Romans-sur-Isère,FR36019,urbaine,fond,Dioxyde d'azote,8,µg/m3,13,t,t,annuelle,6440222.5,860949.375,74
+Drôme,Saint-Nazaire-le-Désert,26321,1514764800000,1546300800000,Drôme Rurale Sud-SND,FR36021,rurale nationale,fond,Dioxyde d'azote,8,µg/m3,1.6,t,t,annuelle,6388207,880936.6875,75
+Drôme,Bourg-lès-Valence,26058,1514764800000,1546300800000,A7 Valence Est,FR36032,urbaine,trafic,Dioxyde d'azote,8,µg/m3,32.7,t,t,annuelle,6429561,849062.125,76
