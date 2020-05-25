@@ -1,0 +1,11 @@
+# Datasets source for France
+
+http://data-atmo-hdf.opendata.arcgis.com/datasets/mes-hdf-annuel-poll-princ/data?geometry=-7.704%2C48.915%2C13.258%2C51.378
+
+https://data-atmograndest.opendata.arcgis.com/datasets/mes-atmo-grand-est-annuel-poll-princ/data?geometry=-4.424%2C47.481%2C16.538%2C50.016
+
+https://trouver.datasud.fr/dataset/mesures-annuelles-des-polluants-principaux-en-region-sud/resource/787a02c2-0ae6-43d9-ab08-aecc6a56435e
+
+https://data-airparif-asso.opendata.arcgis.com/search?q=annuel
+
+http://data-atmoaura.opendata.arcgis.com/search?q=annuel
