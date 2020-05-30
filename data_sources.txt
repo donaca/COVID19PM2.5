@@ -15,3 +15,5 @@ http://opendata.auvergnerhonealpes.eu/7-les-donnees.htm?q=air&coverageFromDate=&
 
 # Data for UK
 https://www.gov.uk/government/statistical-data-sets/env02-air-quality-statistics
+
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/datasets/deathregistrationsandoccurrencesbylocalauthorityandhealthboard
