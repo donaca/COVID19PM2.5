@@ -9,3 +9,9 @@ https://trouver.datasud.fr/dataset/mesures-annuelles-des-polluants-principaux-en
 https://data-airparif-asso.opendata.arcgis.com/search?q=annuel
 
 http://data-atmoaura.opendata.arcgis.com/search?q=annuel
+
+http://opendata.auvergnerhonealpes.eu/7-les-donnees.htm?q=air&coverageFromDate=&coverageToDate=&from=0&idtf=7
+
+
+# Data for UK
+https://www.gov.uk/government/statistical-data-sets/env02-air-quality-statistics
