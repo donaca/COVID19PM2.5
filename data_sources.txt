@@ -17,3 +17,6 @@ http://opendata.auvergnerhonealpes.eu/7-les-donnees.htm?q=air&coverageFromDate=&
 https://www.gov.uk/government/statistical-data-sets/env02-air-quality-statistics
 
 https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/datasets/deathregistrationsandoccurrencesbylocalauthorityandhealthboard
+
+
+https://statswales.gov.wales/Catalogue/Environment-and-Countryside/Air-Quality/airqualityindicators-by-localauthority

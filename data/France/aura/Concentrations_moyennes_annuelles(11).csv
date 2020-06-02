@@ -1,0 +1,7 @@
+﻿X,Y,nom_dept,nom_com,id_com,date_debut,date_fin,nom_station,code_station,typologie,influence,nom_poll,id_poll_ue,unite,valeur,validite,validation,metrique,yl93,xl93,OBJECTID
+3.60066670119653,46.652667164872,Allier,Paray-le-Frésil,03203,2015/01/01 00:00:00+00,2016/01/01 00:00:00+00,Paray le Fresil,FR07022,rurale régionale,fond,Oxydes d'azote,9,µg/m3,5,t,t,annuelle,6617129.5,745935.5625,1
+4.46571134517322,45.9614105853123,Rhône,Dième,69075,2015/01/01 00:00:00+00,2016/01/01 00:00:00+00,HAUT BEAUJOLAIS,FR20049,rurale proche,fond,Oxydes d'azote,9,µg/m3,6,t,t,annuelle,6541242,813508.75,2
+5.18108074969026,45.4608999995335,Isère,Lieudieu,38211,2015/01/01 00:00:00+00,2016/01/01 00:00:00+00,Plateau de Bonnevaux,FR27010,rurale régionale,fond,Oxydes d'azote,9,µg/m3,7,t,t,annuelle,6486960,870432.25,3
+4.61581708373252,45.3895777892734,Loire,Roisey,42191,2015/01/01 00:00:00+00,2016/01/01 00:00:00+00,COL_OEILLON,FR29440,rurale régionale,fond,Oxydes d'azote,9,µg/m3,8,t,t,annuelle,6477979,826431.1875,4
+5.82083304956353,46.0722257831949,Haute-Savoie,Saint-Germain-sur-Rhône,74235,2015/01/01 00:00:00+00,2016/01/01 00:00:00+00,St Germain/Rhône,FR33302,rurale proche,fond,Oxydes d'azote,9,µg/m3,11,t,t,annuelle,6556388.5,917979.6875,5
+5.2789719118796,44.5694417341965,Drôme,Saint-Nazaire-le-Désert,26321,2015/01/01 00:00:00+00,2016/01/01 00:00:00+00,Drôme Rurale Sud-SND,FR36021,rurale nationale,fond,Oxydes d'azote,9,µg/m3,3,t,t,annuelle,6388207,880936.6875,6

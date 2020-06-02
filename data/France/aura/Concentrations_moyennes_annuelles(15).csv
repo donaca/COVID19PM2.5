@@ -1,0 +1,2 @@
+﻿nom_dept,nom_com,id_com,date_debut,date_fin,nom_station,code_station,typologie,influence,nom_poll,id_poll_ue,unite,valeur,validite,validation,metrique,yl93,xl93,OBJECTID
+Rhône,Villeurbanne,69266,1451606400000,1483228800000,Lyon Périphérique,FR20069,urbaine,trafic,Monoxyde de carbone,10,mg/m3,0.356,t,t,annuelle,6521241,847523.125,1
