@@ -12,6 +12,7 @@ http://data-atmoaura.opendata.arcgis.com/search?q=annuel
 
 http://opendata.auvergnerhonealpes.eu/7-les-donnees.htm?q=air&coverageFromDate=&coverageToDate=&from=0&idtf=7
 
+https://www.coronavirus-statistiques.com/stats-globale/nombre-de-cas-coronavirus-par-region-par-departement/#tableau-synoptique-deces (TODO c'est une source fiable ca?? :-/)
 
 # Data for UK
 https://www.gov.uk/government/statistical-data-sets/env02-air-quality-statistics
