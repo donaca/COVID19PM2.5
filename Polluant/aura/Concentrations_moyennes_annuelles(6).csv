@@ -1,4 +1,0 @@
-﻿nom_dept,nom_com,id_com,date_debut,date_fin,nom_station,code_station,typologie,influence,nom_poll,id_poll_ue,unite,valeur,validite,validation,metrique,yl93,xl93,OBJECTID
-Allier,Paray-le-Frésil,03203,1514764800000,1546300800000,Paray le Fresil,FR07022,rurale régionale,fond,Oxydes d'azote,9,µg/m3,4,t,t,annuelle,6617129.5,745935.5625,1
-Isère,Lieudieu,38211,1514764800000,1546300800000,Plateau de Bonnevaux,FR27010,rurale régionale,fond,Oxydes d'azote,9,µg/m3,11.1,t,t,annuelle,6486960,870432.25,2
-Drôme,Saint-Nazaire-le-Désert,26321,1514764800000,1546300800000,Drôme Rurale Sud-SND,FR36021,rurale nationale,fond,Oxydes d'azote,9,µg/m3,3.2,t,t,annuelle,6388207,880936.6875,3
