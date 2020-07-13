@@ -9,3 +9,7 @@ We could find the data only for France and UK. The other countries don't provide
 - data_sources.txt    : text file containing the data sources used in Real_data.ipynb
 
 
+**CONTACT**
+Don't hesitate to contact us: 
+- tim.tuuva@epfl.ch
+- darja.nonaca@epfl.ch
