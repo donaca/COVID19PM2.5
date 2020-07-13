@@ -1,4 +1,4 @@
-# Exposure to air pollution and COVID-19 expansion inWestern-Europe
+# Exposure to air pollution and COVID-19 expansion in Western-Europe
 The aim of this project is to study whether there is a correlation between the covid-19 expansion and air pollution in Western-Europe. 
 We search whether there is a correlation between the number of deaths and the PM2.5. 
 We could find the data only for France and UK. The other countries don't provide enough information. 
